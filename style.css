@@ -1,0 +1,10 @@
+.recipe-info {
+    background: orange;
+    color: white;
+    font-size: .6em;
+}
+
+.recipe-info > span {
+    margin-left: 4px;
+    margin-right: 4px;
+}
